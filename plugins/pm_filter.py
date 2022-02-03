@@ -361,11 +361,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
             [
-                InlineKeyboardButton('support', url='https://t.me/JOSPSupport'),
-                InlineKeyboardButton('channel', url='https://t.me/JosProjects')
+                InlineKeyboardButton('⭕GROUP⭕', url='https://t.me/joinchat/-3Vjw61udNM3OWU9'),
+                InlineKeyboardButton('♻CHANNEL♻', url='https://t.me/joinchat/VtTZc5al3Vt0te9_')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('🔰OTT MOVIES🔰', url=f'https://t.me/+S384rYHJgf1mYmQ1')
             ]
             ]
             
